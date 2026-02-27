@@ -17,7 +17,7 @@ However, most existing deep learning models focus only on improving prediction a
 In aerospace systems, safety and reliability are critical. Therefore, uncertainty-aware and explainable AI models are necessary.
 
 ## Proposed Research Idea
-Title (Tentative):
+Title :
 
 Uncertainty-Aware Attention-Based LSTM Model for Turbofan Engine Remaining Useful Life Prediction
 
