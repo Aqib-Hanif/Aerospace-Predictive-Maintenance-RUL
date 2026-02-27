@@ -19,7 +19,7 @@ In aerospace systems, safety and reliability are critical. Therefore, uncertaint
 ## Proposed Research Idea
 Title (Tentative):
 
-"Uncertainty-Aware Attention-Based LSTM Model for Turbofan Engine Remaining Useful Life Prediction"
+Uncertainty-Aware Attention-Based LSTM Model for Turbofan Engine Remaining Useful Life Prediction
 
 ## Core Idea
 - Use NASA C-MAPSS turbofan dataset
